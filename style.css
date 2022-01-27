@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    margin: 30px
+}
+
+.content {
+    border: 3px dashed #d1cdcd;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.active {
+    border: 4px dashed #444 !important;
+}
+
+img {
+    margin: 5px;
+}
+
+.images{
+    background: #9e9e9e;
+    margin-top: 10px;
+}
